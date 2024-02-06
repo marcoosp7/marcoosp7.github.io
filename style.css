@@ -27,3 +27,10 @@ dt{
 h3{
     text-decoration: underline;
 }
+h2{
+    color: blue;
+    font-weight: bolder;
+    font-size: 2em;
+    border: 2px solid blue;
+    text-align: center;
+}
